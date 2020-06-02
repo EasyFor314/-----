@@ -1,0 +1,29 @@
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\babee\OneDrive\Desktop\Laba3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\bin\Debug\Laba3.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\bin\Debug\Laba3.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор RTF (3)\Laba3\obj\Debug\Laba3.pdb
+D:\_Учёба\Технология программирования Лиза\3\Laba3\bin\Debug\Laba3.exe.config
+D:\_Учёба\Технология программирования Лиза\3\Laba3\bin\Debug\Laba3.exe
+D:\_Учёба\Технология программирования Лиза\3\Laba3\bin\Debug\Laba3.pdb
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.Form1.resources
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.exe
+D:\_Учёба\Технология программирования Лиза\3\Laba3\obj\Debug\Laba3.pdb

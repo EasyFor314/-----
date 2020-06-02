@@ -1,0 +1,48 @@
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\bin\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\bin\Debug\Laba2.pdb
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.Form1.resources
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\Laba2\Laba2\obj\Debug\Laba2.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\bin\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\bin\Debug\Laba2.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.Form1.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор(2)\Laba2\obj\Debug\Laba2.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\bin\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\bin\Debug\Laba2.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.Form1.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Текстовый редактор (2)\Laba2\obj\Debug\Laba2.pdb
+C:\Users\Лев\Desktop\2\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\Лев\Desktop\2\Laba2\bin\Debug\Laba2.exe
+C:\Users\Лев\Desktop\2\Laba2\bin\Debug\Laba2.pdb
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.Form1.resources
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.exe
+C:\Users\Лев\Desktop\2\Laba2\obj\Debug\Laba2.pdb
+D:\_Учёба\Технология программирования Лиза\2\Laba2\bin\Debug\Laba2.exe.config
+D:\_Учёба\Технология программирования Лиза\2\Laba2\bin\Debug\Laba2.exe
+D:\_Учёба\Технология программирования Лиза\2\Laba2\bin\Debug\Laba2.pdb
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.Form1.resources
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.exe
+D:\_Учёба\Технология программирования Лиза\2\Laba2\obj\Debug\Laba2.pdb

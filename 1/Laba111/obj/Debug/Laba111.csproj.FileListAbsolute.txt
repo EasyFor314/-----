@@ -1,0 +1,29 @@
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\bin\Debug\Laba111.exe.config
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\bin\Debug\Laba111.exe
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\bin\Debug\Laba111.pdb
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.Form1.resources
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.exe
+C:\Users\babee\OneDrive\Desktop\Laba111\Laba111\obj\Debug\Laba111.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\bin\Debug\Laba111.exe.config
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\bin\Debug\Laba111.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\bin\Debug\Laba111.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.Form1.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\Калькулятор (1)\Laba111\obj\Debug\Laba111.pdb
+D:\_Учёба\Технология программирования Лиза\1\Laba111\bin\Debug\Laba111.exe.config
+D:\_Учёба\Технология программирования Лиза\1\Laba111\bin\Debug\Laba111.exe
+D:\_Учёба\Технология программирования Лиза\1\Laba111\bin\Debug\Laba111.pdb
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.csprojAssemblyReference.cache
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.Form1.resources
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.Properties.Resources.resources
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.csproj.GenerateResource.cache
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.exe
+D:\_Учёба\Технология программирования Лиза\1\Laba111\obj\Debug\Laba111.pdb

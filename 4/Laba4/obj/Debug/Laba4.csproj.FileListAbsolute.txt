@@ -1,0 +1,38 @@
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.pdb
+C:\Users\babee\OneDrive\Desktop\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\bin\Debug\Laba4.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\bin\Debug\Laba4.pdb
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.exe
+C:\Users\babee\OneDrive\Desktop\les\ТП\(4)Табулирование функции с построением графика (4)\Laba4\obj\Debug\Laba4.pdb
+C:\Users\Лев\Desktop\4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Лев\Desktop\4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Лев\Desktop\4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.exe
+C:\Users\Лев\Desktop\4\Laba4\obj\Debug\Laba4.pdb
+D:\_Учёба\Технология программирования Лиза\4\Laba4\bin\Debug\Laba4.exe.config
+D:\_Учёба\Технология программирования Лиза\4\Laba4\bin\Debug\Laba4.exe
+D:\_Учёба\Технология программирования Лиза\4\Laba4\bin\Debug\Laba4.pdb
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.Form1.resources
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.exe
+D:\_Учёба\Технология программирования Лиза\4\Laba4\obj\Debug\Laba4.pdb
